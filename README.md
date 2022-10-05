@@ -10,6 +10,7 @@
 7.	Laser
 8.	Palo de valso
 9.	Base para portaobjetos (Caja de Tictac)
+
 ![This is an image](https://github.com/Alvaradom08/experimentoDobleRendija/blob/master/Imagenes/WhatsApp%20Image%202022-10-04%20at%201.55.01%20PM.jpeg)
 ![This is an image](https://github.com/Alvaradom08/experimentoDobleRendija/blob/master/Imagenes/WhatsApp%20Image%202022-10-04%20at%2012.41.54%20PM.jpeg)
 # Procedimiento
