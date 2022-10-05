@@ -11,13 +11,14 @@ El experimento de la doble rendija fue realizado por primera vez en 1801 por Tom
 8.	Palo de valso
 9.	Base para portaobjetos (Caja de Tictac)
 
-![This is an image](https://github.com/Alvaradom08/experimentoDobleRendija/blob/master/Imagenes/WhatsApp%20Image%202022-10-04%20at%201.55.01%20PM.jpeg)
-![This is an image](https://github.com/Alvaradom08/experimentoDobleRendija/blob/master/Imagenes/WhatsApp%20Image%202022-10-04%20at%2012.41.54%20PM.jpeg)
 # Procedimiento
 1.	Colocamos el portaobjetos sobre el papel aluminio y cortamos un trozo a medida, posteriormente este trozo a medida es importante adherirlo con cinta al portaobjetos con el fin de que este no se mueva.
 2.	Con ayuda de un bisturí hacemos dos cortes paralelos sobre el papel aluminio adherido al portaobjetos. Tenemos que asegurarnos que la distancia entre los cortes sea mínima, esto porque a la hora de apuntar con el laser el haz de luz debe poder penetrar ambas rendijas.
 3.	Con ayuda de un palo de valso creamos una superficie sobre la que va a reposar el láser. Una vez creada adherimos el laser y posteriormente la estructura a la superficie.
 4.	 Con ayuda de una pequeña caja de plástico creamos la base para colocar el portaobjetos; luego ponemos el portaobjetos en nuestra base, y lo adherimos a la superficie de la caja. (Es importante que al encender el laser este penetre con el haz de luz las dos rendijas del portaobjetos, se recomienda probar con diferentes posiciones para cerciorarse de que todo esté perfectamente alineado).
+
+![This is an image](https://github.com/Alvaradom08/experimentoDobleRendija/blob/master/Imagenes/WhatsApp%20Image%202022-10-04%20at%2012.41.54%20PM.jpeg)
+
 # Resultados
 
 ## Diseño
