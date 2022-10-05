@@ -1,4 +1,4 @@
-# experimentoDobleRendija
+# Experimento Doble Rendija
 >El experimento de la doble rendija fue realizado por primera vez en 1801 por Tomas Young, este comprobó un patrón de interferencias en la luz procedente de una fuente lejana al difractarse en el paso por dos rejillas. El experimento también puede realizarse con electrones, protones o neutrones, produciendo patrones de interferencia similares a los obtenidos cuando se realiza con luz.
 # Materiales
 1.	Papel Aluminio
