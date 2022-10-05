@@ -11,14 +11,13 @@
 8.	Palo de valso
 9.	Base para portaobjetos (Caja de Tictac)
 
+![This is an image](https://github.com/Alvaradom08/experimentoDobleRendija/blob/master/Imagenes/WhatsApp%20Image%202022-10-04%20at%201.55.01%20PM.jpeg)
+![This is an image](https://github.com/Alvaradom08/experimentoDobleRendija/blob/master/Imagenes/WhatsApp%20Image%202022-10-04%20at%2012.41.54%20PM.jpeg)
 # Procedimiento
 1.	Colocamos el portaobjetos sobre el papel aluminio y cortamos un trozo a medida, posteriormente este trozo a medida es importante adherirlo con cinta al portaobjetos con el fin de que este no se mueva.
 2.	Con ayuda de un bisturí hacemos dos cortes paralelos sobre el papel aluminio adherido al portaobjetos. Tenemos que asegurarnos que la distancia entre los cortes sea mínima, esto porque a la hora de apuntar con el laser el haz de luz debe poder penetrar ambas rendijas.
 3.	Con ayuda de un palo de valso creamos una superficie sobre la que va a reposar el láser. Una vez creada adherimos el laser y posteriormente la estructura a la superficie.
 4.	 Con ayuda de una pequeña caja de plástico creamos la base para colocar el portaobjetos; luego ponemos el portaobjetos en nuestra base, y lo adherimos a la superficie de la caja. (Es importante que al encender el laser este penetre con el haz de luz las dos rendijas del portaobjetos, se recomienda probar con diferentes posiciones para cerciorarse de que todo esté perfectamente alineado).
-
-![This is an image](https://github.com/Alvaradom08/experimentoDobleRendija/blob/master/Imagenes/WhatsApp%20Image%202022-10-04%20at%2012.41.54%20PM.jpeg)
-
 # Resultados
 
 ## Diseño
@@ -32,7 +31,7 @@
 
 ## ¿Cómo nos ayuda a entender el multiverso?
 
-Cada fotón es tangible en un universo e intangible en todos sus universos paralelos, este experimento nos permite entender la teoría del mulltiverso pues podemos evidenciar partículas intangibles particionandoce entre si mismas así como las partículas tangibles lo que quiere decir que las partículas intangibles forman un gran número de universos paralelos todos similares en composición al tangible y todos obedecen las mismas leyes físicas pero difieren en la posición de cada partícula.
+Este experimento es una demostración del fenómeno cuántico conocido como interferencia. Hay que tener mucho cuidado con esta palabra ya que ha sido tema de debate dentro de la comunidad científica debido a que mientras unos creen en que esta interferencia es generada entre las ondas creadas a partir de la onda original al pasar por las rendijas mientras otros creen que esta interferencia es producto del choque del mismo fotón en múltiples universos.
 
 # Explicacion
 
@@ -63,16 +62,16 @@ Ahora al comparar ambos vectores de estado, y de sacar el módulo al cuadrado de
 ![This is an image](https://github.com/Alvaradom08/experimentoDobleRendija/blob/master/Imagenes/vectorEstadoImaginarioModuloAlCuadrado.png) ![This is an image](https://github.com/Alvaradom08/experimentoDobleRendija/blob/master/Imagenes/vectorEstadoProbabilistico.png)
 En la posición 5 el primer vector de estado hay un 0 mientras que en el otro vector tiene 1/3, viéndose de forma algebraica el fenómeno de interferencia.
 # Libreria 
-> clonamos la libreias para su uso
+> clonamos la librerias para su uso
 ## Contenido
 ### DobleRendija.py
-la cual reune los porcedimientos necesarios para el calculo del probabilidad del experimento 
+la cual tiene los procedimientos necesarios para el calculo del probabilidad del experimento 
 ### Calculadora.py
-libreria de opreaciones con imaginarios y matrices
+libreria de operaciones con imaginarios y matrices
 ### experimento.py
 Atravez de pruebas unitarias se ejecuta el experimento 
 ## requisitos 
-incluir en sus IDE´s las libreias de :
+incluir en sus IDE´s las librerias de :
 -matplotlib.pyplot 
 -numpy
 # Construido con
