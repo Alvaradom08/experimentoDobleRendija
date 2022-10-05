@@ -17,7 +17,6 @@
 3.	Con ayuda de un palo de valso creamos una superficie sobre la que va a reposar el láser. Una vez creada adherimos el laser y posteriormente la estructura a la superficie.
 4.	 Con ayuda de una pequeña caja de plástico creamos la base para colocar el portaobjetos; luego ponemos el portaobjetos en nuestra base, y lo adherimos a la superficie de la caja. (Es importante que al encender el laser este penetre con el haz de luz las dos rendijas del portaobjetos, se recomienda probar con diferentes posiciones para cerciorarse de que todo esté perfectamente alineado).
 
-![This is an image](https://github.com/Alvaradom08/experimentoDobleRendija/blob/master/Imagenes/WhatsApp%20Image%202022-10-04%20at%201.55.01%20PM.jpeg)
 ![This is an image](https://github.com/Alvaradom08/experimentoDobleRendija/blob/master/Imagenes/WhatsApp%20Image%202022-10-04%20at%2012.41.54%20PM.jpeg)
 
 # Resultados
